@@ -1,12 +1,8 @@
 #profile-title: 🌈𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡
 #profile-update-interval: 1
-#profile-description:🌈 𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡
-🚀 Безлимитный трафик
-⚡ Быстрые VPN-серверы
-🔒 Защищённое подключение
-🌍 Стабильная работа
+#profile-description:🌈 𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡 🚀 Безлимитный трафик ⚡ Быстрые VPN-серверы 🔒 Защищённое подключение 🌍 Стабильная работа
 #subscription-userinfo: upload=0; download=0; total=0; expire=4102444800
-#support-url: https://t.me/FINSED
+#support-url: https://t.me/fizmavpn
 
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?path=%2Fde01-ws-8e47a&security=tls&alpn=http%2F1.1&encryption=none&host=hub-de-01.hanvpn.cc&fp=chrome&type=ws&sni=hub-de-01.hanvpn.cc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%88
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?mode=auto&path=%2Fde01-xhttp-8e47a%2F&security=tls&alpn=h2&encryption=none&host=hub-de-01.hanvpn.cc&fp=chrome&type=xhttp&sni=hub-de-01.hanvpn.cc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%88
