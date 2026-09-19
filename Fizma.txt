@@ -1,6 +1,6 @@
 #profile-title: 🌈𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡
 #profile-update-interval: 1
-🌈 𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡
+#profile-description:🌈 𝗙𝗜𝗭𝗠𝗔 𝗩𝗣𝗡
 🚀 Безлимитный трафик
 ⚡ Быстрые VPN-серверы
 🔒 Защищённое подключение
